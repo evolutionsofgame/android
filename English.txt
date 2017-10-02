@@ -1,173 +1,173 @@
-			//Main Menu
-			stringList.Add ("START", "START");
-			stringList.Add ("MultiPlayer (beta)", "MultiPlayer (beta)");
-			stringList.Add ("PokeDex", "PokeDex");
-			stringList.Add ("Do you want to Quit the game?", "Do you want to Quit the game?");
-			stringList.Add ("Yes", "Yes");
-			stringList.Add ("Quick Game", "Quick Game");
-			stringList.Add ("Invite friends", "Invite friends");
-			stringList.Add ("See invitations", "See invitations");
-            stringList.Add ("is challenging you to a game!", "is challenging you to a game!");
-            stringList.Add ("Accept!", "Accept!");
-            stringList.Add ("Do you want to update it now?", "Do you want to update it now?");
-			stringList.Add ("Yes now", "Yes now");
-			stringList.Add ("Ignore", "Ignore");
-			stringList.Add ("New version", "New version");
-			stringList.Add ("is now available", "is now available");
-			stringList.Add ("Add Score Effect?", "Add Score Effect?");
-            stringList.Add ("No Use Animation when Play", "No Use Animation when Play");
-			stringList.Add ("Settings", "Settings");
-			stringList.Add ("Dragons Caught", "Dragons Caught");
-			stringList.Add ("Exit", "Exit");
-			stringList.Add ("Close", "Close");
-			stringList.Add ("LOADING", "LOADING");
+//Main Menu
+stringList.Add ("START", "START");
+stringList.Add ("MultiPlayer (beta)", "MultiPlayer (beta)");
+stringList.Add ("PokeDex", "PokeDex");
+stringList.Add ("Do you want to Quit the game?", "Do you want to Quit the game?");
+stringList.Add ("Yes", "Yes");
+stringList.Add ("Quick Game", "Quick Game");
+stringList.Add ("Invite friends", "Invite friends");
+stringList.Add ("See invitations", "See invitations");
+stringList.Add ("is challenging you to a game!", "is challenging you to a game!");
+stringList.Add ("Accept!", "Accept!");
+stringList.Add ("Do you want to update it now?", "Do you want to update it now?");
+stringList.Add ("Yes now", "Yes now");
+stringList.Add ("Ignore", "Ignore");
+stringList.Add ("New version", "New version");
+stringList.Add ("is now available", "is now available");
+stringList.Add ("Add Score Effect?", "Add Score Effect?");
+stringList.Add ("No Use Animation when Play", "No Use Animation when Play");
+stringList.Add ("Settings", "Settings");
+stringList.Add ("Dragons Caught", "Dragons Caught");
+stringList.Add ("Exit", "Exit");
+stringList.Add ("Close", "Close");
+stringList.Add ("LOADING", "LOADING");
 			
 			
-			//Level Selection
-			stringList.Add ("Support LuckStone Mode?", "Support LuckStone Mode?");
-			stringList.Add ("Support Invader Mode?", "Support Invader Mode?");
-			stringList.Add ("Best Score", "Best Score");
-			stringList.Add ("BS", "BS");
-			stringList.Add ("Support Galaxy Mode?", "Support Galaxy Mode?");
-			stringList.Add ("Support Dragons Word?", "Support Dragons Word?");
-            stringList.Add ("Support PokeMon Word?", "Support PokeMon Word?");
-            stringList.Add ("Support Evo Dragons?", "Support Evo Dragons?");
-            stringList.Add ("Support Evo Pokemon?", "Support Evo Pokemon?");
-            stringList.Add ("Support Catch Dragons?", "Support Catch Dragons?");
-			stringList.Add ("Support Catch Pokemon?", "Support Catch Pokemon?");
-			stringList.Add ("Score Plus/subtract?", "Score Plus/subtract?");
-			stringList.Add ("Support Boot Items?", "Support Boot Items?");
-			stringList.Add ("Sound play minigame?", "Sound play minigame?");
-			stringList.Add ("Descrease Time Minigame?", "Descrease Time Minigame?");
-			stringList.Add ("Suggest Mission at WormHole?", "Suggest Mission at WormHole?");
-			stringList.Add ("Suggest next Hit Mission?", "Suggest next Hit Mission?");
-			stringList.Add ("Use sub flipper?", "Use sub flipper?");
-            stringList.Add ("Open/Close gates by bumpers?", "Open/Close gates by bumpers?");
-            stringList.Add ("Enable Music Visualization?", "Enable Music Visualization?");
-            stringList.Add ("Change speed & direction rotation", "Change speed & direction rotation");
-            stringList.Add ("Santa Claus build?", "Santa Claus build?");
-            stringList.Add ("Santa Claus 2016 fill text?", "Santa Claus 2016 fill text?");
-            stringList.Add ("Enable Unicorn Mini Game?", "Enable Unicorn Mini Game?");
-            stringList.Add ("Enable Rainbow Balls Game", "Enable Rainbow Balls Game");
-            stringList.Add ("Coming soon", "Coming soon");
-            stringList.Add ("More Tables", "More Tables");
-            stringList.Add ("More Game", "More Game");
-            stringList.Add ("Enter", "Enter");
-            stringList.Add ("Do you want to?", "Do you want to?");
-            stringList.Add ("New Game", "New Game");
-            stringList.Add ("Continue", "Continue");
-            stringList.Add ("Rainbow table", "Rainbow table");
-            stringList.Add ("Christmas table", "Christmas table");
-            stringList.Add ("Music table", "Music table");
-            stringList.Add ("Metal 2048 table", "Metal 2048 table");
-            stringList.Add ("Space Cadet Table", "Space Cadet Table");
-            stringList.Add ("JackPot Table", "JackPot Table");
-            stringList.Add ("Breakout Table", "Breakout Table");
-            stringList.Add ("Pokemon Table", "Pokemon Table");
-            stringList.Add ("Dragon Table", "Dragon Table");
-            stringList.Add ("Light Table", "Light Table");
-            stringList.Add ("Main Table", "Main Table");
+//Level Selection
+stringList.Add ("Support LuckStone Mode?", "Support LuckStone Mode?");
+stringList.Add ("Support Invader Mode?", "Support Invader Mode?");
+stringList.Add ("Best Score", "Best Score");
+stringList.Add ("BS", "BS");
+stringList.Add ("Support Galaxy Mode?", "Support Galaxy Mode?");
+stringList.Add ("Support Dragons Word?", "Support Dragons Word?");
+stringList.Add ("Support PokeMon Word?", "Support PokeMon Word?");
+stringList.Add ("Support Evo Dragons?", "Support Evo Dragons?");
+stringList.Add ("Support Evo Pokemon?", "Support Evo Pokemon?");
+stringList.Add ("Support Catch Dragons?", "Support Catch Dragons?");
+stringList.Add ("Support Catch Pokemon?", "Support Catch Pokemon?");
+stringList.Add ("Score Plus/subtract?", "Score Plus/subtract?");
+stringList.Add ("Support Boot Items?", "Support Boot Items?");
+stringList.Add ("Sound play minigame?", "Sound play minigame?");
+stringList.Add ("Descrease Time Minigame?", "Descrease Time Minigame?");
+stringList.Add ("Suggest Mission at WormHole?", "Suggest Mission at WormHole?");
+stringList.Add ("Suggest next Hit Mission?", "Suggest next Hit Mission?");
+stringList.Add ("Use sub flipper?", "Use sub flipper?");
+stringList.Add ("Open/Close gates by bumpers?", "Open/Close gates by bumpers?");
+stringList.Add ("Enable Music Visualization?", "Enable Music Visualization?");
+stringList.Add ("Change speed & direction rotation", "Change speed & direction rotation");
+stringList.Add ("Santa Claus build?", "Santa Claus build?");
+stringList.Add ("Santa Claus 2016 fill text?", "Santa Claus 2016 fill text?");
+stringList.Add ("Enable Unicorn Mini Game?", "Enable Unicorn Mini Game?");
+stringList.Add ("Enable Rainbow Balls Game", "Enable Rainbow Balls Game");
+stringList.Add ("Coming soon", "Coming soon");
+stringList.Add ("More Tables", "More Tables");
+stringList.Add ("More Game", "More Game");
+stringList.Add ("Enter", "Enter");
+stringList.Add ("Do you want to?", "Do you want to?");
+stringList.Add ("New Game", "New Game");
+stringList.Add ("Continue", "Continue");
+stringList.Add ("Rainbow table", "Rainbow table");
+stringList.Add ("Christmas table", "Christmas table");
+stringList.Add ("Music table", "Music table");
+stringList.Add ("Metal 2048 table", "Metal 2048 table");
+stringList.Add ("Space Cadet Table", "Space Cadet Table");
+stringList.Add ("JackPot Table", "JackPot Table");
+stringList.Add ("Breakout Table", "Breakout Table");
+stringList.Add ("Pokemon Table", "Pokemon Table");
+stringList.Add ("Dragon Table", "Dragon Table");
+stringList.Add ("Light Table", "Light Table");
+stringList.Add ("Main Table", "Main Table");
 			
-			//Main Table
-			stringList.Add ("Secret", "Secret");
-			stringList.Add ("Luck", "Luck");
-			stringList.Add ("Invaders", "Invaders");
-			stringList.Add ("Character", "Character");
+//Main Table
+stringList.Add ("Secret", "Secret");
+stringList.Add ("Luck", "Luck");
+stringList.Add ("Invaders", "Invaders");
+stringList.Add ("Character", "Character");
 
 
-			//Pause
-			stringList.Add ("Resume", "Resume");
-			stringList.Add ("Restart", "Restart");
-			stringList.Add ("Mute", "Mute");
-			stringList.Add ("HighScore", "HighScore");
-			stringList.Add ("Menu", "Menu");
-			stringList.Add ("Mass Ball", "Mass Ball");
-			stringList.Add ("Change speed up of balls", "Change speed up of balls");
-			stringList.Add ("Restore Default", "Restore Default");
-			stringList.Add ("Gravity Ball", "Gravity Ball");
-			stringList.Add ("Change speed fall of balls", "Change speed fall of balls");
-			stringList.Add ("Force Paddles", "Force Paddles");
-			stringList.Add ("Change force for main paddles", "Change force for main paddles");
-			stringList.Add ("Do you want to restart the game?", "Do you want to restart the game?");
-			stringList.Add ("Rate Now", "Rate Now");
-			stringList.Add ("Later", "Later");
-			stringList.Add ("Extra Ball", "Extra Ball");
-			stringList.Add ("HIGH SCORE", "HIGH SCORE");
-			stringList.Add ("RESTART", "RESTART");
-			stringList.Add ("MENU", "MENU");
-			stringList.Add ("PRESS AND HOLD ANYWHERE TO LUANCH THE BALL", "PRESS AND HOLD ANYWHERE TO LUANCH THE BALL");
-			stringList.Add ("LEFT FLIP", "LEFT FLIP");
-			stringList.Add ("RIGHT FLIP", "RIGHT FLIP");
-			stringList.Add ("THANK YOU", "THANK YOU");
-			stringList.Add ("FOR YOUR SUPPORT", "FOR YOUR SUPPORT");
-			stringList.Add ("WOULD YOU LIKE TO RATE US", "WOULD YOU LIKE TO RATE US");
-			stringList.Add ("5 STARS", "5 STARS");
-			stringList.Add ("AND TELL US WHAT YOU THINK?", "AND TELL US WHAT YOU THINK?");
-			stringList.Add ("PAUSED", "PAUSED");
-			stringList.Add ("Do you want to restart level now?", "Do you want to restart level now?");
-			stringList.Add ("Do you want to leave level now?", "Do you want to leave level now?");
-			
-			//Light Table
-			
-			//Pokemon table
-			stringList.Add ("CATCHEM", "CATCHEM");
-			stringList.Add ("CAUGHT", "CAUGHT");
-			stringList.Add ("EVOLVED", "EVOLVED");
-			stringList.Add ("EVOLUTION", "EVOLUTION");
-			stringList.Add ("EVO POKEMON", "EVO POKEMON");
-			stringList.Add ("EVO DRAGONS", "EVO DRAGONS");
-			stringList.Add ("EVO2 POKEMON", "EVO2 POKEMON");
-			stringList.Add ("EVO2 DRAGONS", "EVO2 DRAGONS");
-			stringList.Add ("CATCHING POKEMON", "CATCHING POKEMON");
-			stringList.Add ("CATCHING DRAGONS", "CATCHING DRAGONS");
-			stringList.Add ("CATCHED POKEMON", "CATCHED POKEMON");
-			stringList.Add ("CATCHED DRAGONS", "CATCHED DRAGONS");
-			stringList.Add ("FINDING POKEMON", "FINDING POKEMON");
-			stringList.Add ("FINDING DRAGONS", "FINDING DRAGONS");
-			
-			//Breakout table
-			stringList.Add ("Level", "Level");
-			stringList.Add ("High Score", "High Score");
-			
-			//JackPot table
-			stringList.Add ("Change Color", "Change Color");
-			stringList.Add ("Craps", "Craps");
-			stringList.Add ("Lower! You have Won", "Lower! You have Won");
-			stringList.Add ("Higher! You have lost", "Higher! You have lost");
-			stringList.Add ("Higher! You have Won", "Higher! You have Won");
-			stringList.Add ("Lower! You have Lost", "Lower! You have Lost");
-			stringList.Add ("You have choosen Red", "You have choosen Red");
-			stringList.Add ("You have choosen Green", "You have choosen Green");
-			stringList.Add ("You have choosen Black", "You have choosen Black");
-			stringList.Add ("You won 100000$ green", "You won 100000$ green");
-			stringList.Add ("You won 10000$ red", "You won 10000$ red");
-			stringList.Add ("You won 5000$ black", "You won 5000$ black");
-			stringList.Add ("You need more lucky", "You need more lucky");
-			stringList.Add ("You have won", "You have won");
-			stringList.Add ("We paid you", "We paid you");
-			stringList.Add ("Win! You have get Ball Bonus in 300s", "Win! You have get Ball Bonus in 300s");
-			stringList.Add ("Win! You have get Ball Bonus in 60s", "Win! You have get Ball Bonus in 60s");
-			stringList.Add ("Win! You have get Ball Bonus in 15s", "Win! You have get Ball Bonus in 15s");
-			stringList.Add ("Win! You have get X2 Score", "Win! You have get X2 Score");
-			stringList.Add ("Win! You have get X4 Score", "Win! You have get X4 Score");
-			stringList.Add ("Win! You have get X6 Score", "Win! You have get X6 Score");
-			stringList.Add ("Win! You have get X8 Score", "Win! You have get X8 Score");
-			stringList.Add ("Win! You have get 120s sub Flipper", "Win! You have get 120s sub Flipper");
-			stringList.Add ("Winner! We paid you", "Winner! We paid you");
-			stringList.Add ("You need more lucky!", "You need more lucky!");
-			
-			//Space cadet table
-			stringList.Add ("HyperSpace", "HyperSpace");
-			stringList.Add ("WormHole", "WormHole");
-			stringList.Add ("Launch Ramp", "Launch Ramp");
-			
-			//Metal 2048 table
-			stringList.Add ("Current", "Current");
-			stringList.Add ("Score", "Score");
-			stringList.Add ("LV", "LV");
-			
-			//Music table
-			
-			//Christmas table
-			
-			//
+//Pause
+stringList.Add ("Resume", "Resume");
+stringList.Add ("Restart", "Restart");
+stringList.Add ("Mute", "Mute");
+stringList.Add ("HighScore", "HighScore");
+stringList.Add ("Menu", "Menu");
+stringList.Add ("Mass Ball", "Mass Ball");
+stringList.Add ("Change speed up of balls", "Change speed up of balls");
+stringList.Add ("Restore Default", "Restore Default");
+stringList.Add ("Gravity Ball", "Gravity Ball");
+stringList.Add ("Change speed fall of balls", "Change speed fall of balls");
+stringList.Add ("Force Paddles", "Force Paddles");
+stringList.Add ("Change force for main paddles", "Change force for main paddles");
+stringList.Add ("Do you want to restart the game?", "Do you want to restart the game?");
+stringList.Add ("Rate Now", "Rate Now");
+stringList.Add ("Later", "Later");
+stringList.Add ("Extra Ball", "Extra Ball");
+stringList.Add ("HIGH SCORE", "HIGH SCORE");
+stringList.Add ("RESTART", "RESTART");
+stringList.Add ("MENU", "MENU");
+stringList.Add ("PRESS AND HOLD ANYWHERE TO LUANCH THE BALL", "PRESS AND HOLD ANYWHERE TO LUANCH THE BALL");
+stringList.Add ("LEFT FLIP", "LEFT FLIP");
+stringList.Add ("RIGHT FLIP", "RIGHT FLIP");
+stringList.Add ("THANK YOU", "THANK YOU");
+stringList.Add ("FOR YOUR SUPPORT", "FOR YOUR SUPPORT");
+stringList.Add ("WOULD YOU LIKE TO RATE US", "WOULD YOU LIKE TO RATE US");
+stringList.Add ("5 STARS", "5 STARS");
+stringList.Add ("AND TELL US WHAT YOU THINK?", "AND TELL US WHAT YOU THINK?");
+stringList.Add ("PAUSED", "PAUSED");
+stringList.Add ("Do you want to restart level now?", "Do you want to restart level now?");
+stringList.Add ("Do you want to leave level now?", "Do you want to leave level now?");
+
+//Light Table
+
+//Pokemon table
+stringList.Add ("CATCHEM", "CATCHEM");
+stringList.Add ("CAUGHT", "CAUGHT");
+stringList.Add ("EVOLVED", "EVOLVED");
+stringList.Add ("EVOLUTION", "EVOLUTION");
+stringList.Add ("EVO POKEMON", "EVO POKEMON");
+stringList.Add ("EVO DRAGONS", "EVO DRAGONS");
+stringList.Add ("EVO2 POKEMON", "EVO2 POKEMON");
+stringList.Add ("EVO2 DRAGONS", "EVO2 DRAGONS");
+stringList.Add ("CATCHING POKEMON", "CATCHING POKEMON");
+stringList.Add ("CATCHING DRAGONS", "CATCHING DRAGONS");
+stringList.Add ("CATCHED POKEMON", "CATCHED POKEMON");
+stringList.Add ("CATCHED DRAGONS", "CATCHED DRAGONS");
+stringList.Add ("FINDING POKEMON", "FINDING POKEMON");
+stringList.Add ("FINDING DRAGONS", "FINDING DRAGONS");
+
+//Breakout table
+stringList.Add ("Level", "Level");
+stringList.Add ("High Score", "High Score");
+
+//JackPot table
+stringList.Add ("Change Color", "Change Color");
+stringList.Add ("Craps", "Craps");
+stringList.Add ("Lower! You have Won", "Lower! You have Won");
+stringList.Add ("Higher! You have lost", "Higher! You have lost");
+stringList.Add ("Higher! You have Won", "Higher! You have Won");
+stringList.Add ("Lower! You have Lost", "Lower! You have Lost");
+stringList.Add ("You have choosen Red", "You have choosen Red");
+stringList.Add ("You have choosen Green", "You have choosen Green");
+stringList.Add ("You have choosen Black", "You have choosen Black");
+stringList.Add ("You won 100000$ green", "You won 100000$ green");
+stringList.Add ("You won 10000$ red", "You won 10000$ red");
+stringList.Add ("You won 5000$ black", "You won 5000$ black");
+stringList.Add ("You need more lucky", "You need more lucky");
+stringList.Add ("You have won", "You have won");
+stringList.Add ("We paid you", "We paid you");
+stringList.Add ("Win! You have get Ball Bonus in 300s", "Win! You have get Ball Bonus in 300s");
+stringList.Add ("Win! You have get Ball Bonus in 60s", "Win! You have get Ball Bonus in 60s");
+stringList.Add ("Win! You have get Ball Bonus in 15s", "Win! You have get Ball Bonus in 15s");
+stringList.Add ("Win! You have get X2 Score", "Win! You have get X2 Score");
+stringList.Add ("Win! You have get X4 Score", "Win! You have get X4 Score");
+stringList.Add ("Win! You have get X6 Score", "Win! You have get X6 Score");
+stringList.Add ("Win! You have get X8 Score", "Win! You have get X8 Score");
+stringList.Add ("Win! You have get 120s sub Flipper", "Win! You have get 120s sub Flipper");
+stringList.Add ("Winner! We paid you", "Winner! We paid you");
+stringList.Add ("You need more lucky!", "You need more lucky!");
+
+//Space cadet table
+stringList.Add ("HyperSpace", "HyperSpace");
+stringList.Add ("WormHole", "WormHole");
+stringList.Add ("Launch Ramp", "Launch Ramp");
+
+//Metal 2048 table
+stringList.Add ("Current", "Current");
+stringList.Add ("Score", "Score");
+stringList.Add ("LV", "LV");
+
+//Music table
+
+//Christmas table
+
+//
